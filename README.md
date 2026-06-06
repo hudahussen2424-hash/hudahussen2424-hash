@@ -1,7 +1,7 @@
 # Hi, I'm Huda 👋
 
 Biomedical Engineering student at Addis Ababa University with a clear destination ( Medical Imaging AI).
-I'm learning Python, building projects daily, and documenting everything publicly. My long-term goal is to apply machine learning to medical imaging problems in Ethiopian healthcare.
+I'm learning Python, building projects daily, and documenting everything publicly. My long-term goal is to apply machine learning to medical imaging problems.
 
 ## 🔭 Currently
 - Working through Angela Yu's 100 Days of Code (Python)
