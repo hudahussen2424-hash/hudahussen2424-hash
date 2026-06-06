@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Huda 👋
 
-<!--
-**hudahussen2424-hash/hudahussen2424-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering student at Addis Ababa University with a clear destination ( Medical Imaging AI).
+I'm learning Python, building projects daily, and documenting everything publicly. My long-term goal is to apply machine learning to medical imaging problems in Ethiopian healthcare.
 
-Here are some ideas to get you started:
+## 🔭 Currently
+- Working through Angela Yu's 100 Days of Code (Python)
+- Building toward: Data Science → Machine Learning → Medical Imaging AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills so far
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
+## 📊 GitHub Stats
+![Huda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudahussen2424-hash&show_icons=true&theme=dark)
+
+## 📡 Follow the journey
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hsynapse_lab)
